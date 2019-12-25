@@ -60,8 +60,8 @@
 		让你吃到真正的实甫.<br>
 		不一样的滋味,<br>
 		吃到你,<br>
-		每天都开心.<br><div>沙雕日报:<button title="back"><a href="https://zhouningyuan1234.github.io/yyy-Sand-sculpture-daily/"><span class="purple">返回</span></a></button></div>
-		  </body>
+		每天都开心.<br>
 	</div>
+			<div>沙雕日报:<button title="back"><a href="https://zhouningyuan1234.github.io/yyy-Sand-sculpture-daily/"><span class="purple">返回</span></a></button></div>
 	</body>
 </html>
