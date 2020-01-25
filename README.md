@@ -10,7 +10,7 @@
 		</style>
 	</head>
 	<body>
-		<div><h1><center>沙雕日报第3期</center></h1>
+		<div><h1><center>沙雕日报第3期</center></h1></div>
 	<div>
 		带着恐龙的决心,<br>
 		带着成为救世主的梦想,<br>
@@ -62,6 +62,6 @@
 		吃到你,<br>
 		每天都开心.<br>
 	</div>
-			<div>沙雕日报:<button title="back"><a href="https://zhouningyuan1234.github.io/yyy-Sand-sculpture-daily/"><span class="purple">返回</span></a></button></div>
+		<div>沙雕日报:<button title="back"><a href="https://zhouningyuan1234.github.io/yyy-Sand-sculpture-daily/"><span class="purple">返回</span></a></button></div>
 	</body>
 </html>
